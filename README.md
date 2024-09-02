@@ -7,7 +7,7 @@
 以下是我撰写的十篇论文及其链接：
 
 1. **论文标题 1**  
-   [点击这里阅读论文](https://example.com/paper1)
+   [论文](https://example.com/paper1)[code](https://example.com/paper1)
 
 2. **论文标题 2**  
    [点击这里阅读论文](https://example.com/paper2)
